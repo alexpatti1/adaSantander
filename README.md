@@ -1,5 +1,4 @@
 # Curso Digital: Git
+## Gravar mudanças no repositório
 
-## Gravando mudanças no repositório
 
-### Continuando
